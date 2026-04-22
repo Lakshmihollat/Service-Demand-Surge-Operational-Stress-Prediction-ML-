@@ -1,7 +1,7 @@
 
 # 🚀 Urban Service Demand Surge Prediction (SBPI + ML)
 
-## 📌 Overview
+## 📌 Overview.
 
 This project focuses on predicting **urban service demand surges** using **New York City 311 residential noise complaint data**. Unlike traditional approaches that rely only on request volumes, this work incorporates **operational stress** through a novel metric called **Service Backlog Pressure Index (SBPI)**.
 
