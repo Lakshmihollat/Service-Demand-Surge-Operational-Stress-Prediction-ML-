@@ -11,11 +11,11 @@ The system uses **time-series feature engineering** and machine learning models 
 
 ## 🎯 Key Contributions
 
-* 📊 Introduced **SBPI (Service Backlog Pressure Index)** to capture system stress
-* ⏱️ Applied **time-series analysis** (lags, rolling averages, trends)
-* ⚡ Designed a **surge detection mechanism** using 95th percentile threshold
-* 🤖 Built and compared **XGBoost** and **TabNet** models
-* 📈 Evaluated performance using precision, recall, F1-score
+* 📊 Introduced **SBPI (Service Backlog Pressure Index)** to capture system stress.
+* ⏱️ Applied **time-series analysis** (lags, rolling averages, trends).
+* ⚡ Designed a **surge detection mechanism** using 95th percentile threshold.
+* 🤖 Built and compared **XGBoost** and **TabNet** models.
+* 📈 Evaluated performance using precision, recall, F1-score.
 
 ---
 
