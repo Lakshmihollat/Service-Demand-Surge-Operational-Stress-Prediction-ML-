@@ -1,7 +1,7 @@
 
-# 🚀 Urban Service Demand Surge Prediction (SBPI + ML)
+#  Urban Service Demand Surge Prediction (SBPI + ML)
 
-## 📌 Overview.
+##  Overview.
 
 This project focuses on predicting **urban service demand surges** using **New York City 311 residential noise complaint data**. Unlike traditional approaches that rely only on request volumes, this work incorporates **operational stress** through a novel metric called **Service Backlog Pressure Index (SBPI)**.
 
@@ -9,7 +9,7 @@ The system uses **time-series feature engineering** and machine learning models 
 
 ---
 
-## 🎯 Key Contributions
+##  Key Contributions
 
 * 📊 Introduced **SBPI (Service Backlog Pressure Index)** to capture system stress.
 * ⏱️ Applied **time-series analysis** (lags, rolling averages, trends).
@@ -19,7 +19,7 @@ The system uses **time-series feature engineering** and machine learning models 
 
 ---
 
-## 🧠 Methodology
+##  Methodology
 
 ### 1. Data
 
@@ -47,14 +47,14 @@ The system uses **time-series feature engineering** and machine learning models 
 
 ---
 
-## 📊 Results
+##  Results
 
 | Model   | Accuracy | Precision | Recall | F1 Score |
 | ------- | -------- | --------- | ------ | -------- |
 | XGBoost | 0.927    | 0.625     | 0.789  | 0.698    |
 | TabNet  | 0.707    | 0.240     | 0.816  | 0.371    |
 
-✅ **XGBoost outperformed TabNet**, achieving strong balance between precision and recall.
+ **XGBoost outperformed TabNet**, achieving strong balance between precision and recall.
 
 ---
 
